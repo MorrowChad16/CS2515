@@ -1,0 +1,4 @@
+this is a test file for computer science.
+it contains some repeated words.
+repeated words should not be duplicated in the search tree.
+you should test your implementation on this first.
